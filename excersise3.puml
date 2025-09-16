@@ -1,0 +1,9 @@
+wclass person{
+    - name: String
+    - bday: int
+    + setName(name: String): void
+    + setBirth(bday: int): void
+    + getName(): String
+    + getBday(): int
+
+}
