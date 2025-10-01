@@ -16,6 +16,7 @@ class Randomizing{
 
             if(bagPieceUsed[0]&bagPieceUsed[1]&bagPieceUsed[2]&bagPieceUsed[3]&bagPieceUsed[4]&bagPieceUsed[5]&bagPieceUsed[6]){
                     System.out.println("BAG IS FULLLLLL AAAAAAAA \n enter to deplete:");
+                    System.out.println("ur mom")
                     for (int k=0;k<bagPieceUsed.length;k++){
                         bagPieceUsed[k]=false;
                     }
