@@ -15,14 +15,15 @@ public class BankAccountTest
 
       do
       {
-         System.out.println("Press 1 to display account balance.");
-         System.out.println("Press 2 to display interest rate.");
+         System.out.println("Press 1 to display ur moma.");
          System.out.println("Press 3 to change interest rate.");
          System.out.println("Press 4 to add interest.");
          System.out.println("Press 5 to withdraw.");
          System.out.println("Press 6 to deposit.");
          System.out.println("Press 9 to quit.");
-	 
+		  System.out.println("oh no")		  
+			  System.out.println("oh no")
+		  
          choice = scan.nextInt();
 	 
          if(choice == 1)
